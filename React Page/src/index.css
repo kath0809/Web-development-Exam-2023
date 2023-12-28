@@ -1,0 +1,46 @@
+body {
+  background-color: #212529;
+}
+
+/* Submit Button (Quiz) */
+.redbull-blue {color: rgb(35, 50, 106);}
+
+:root {
+    --redbull-blue-r: 34;
+    --redbull-blue-g: 57;
+    --redbull-blue-b: 113;
+
+    --submitBtn-hover: rgb(
+        calc(var(--redbull-blue-r) * 1.2),
+        calc(var(--redbull-blue-g) * 1.2),
+        calc(var(--redbull-blue-b) * 1.2)
+    );
+}
+/* Submit btn in Quiz */
+.submitBtn:hover {
+    background-color: var(--submitBtn-hover);
+    color: rgb(192,197,206)
+}
+
+/* Logo in the navbar*/
+#nav-bar-logo{
+  height: 5rem;
+  padding-left: 1rem;
+}
+
+/* Grand Prix Images*/
+#gpImg {
+  height: 3rem;
+  width: 5rem;
+}
+
+/* Nationality Images*/
+#ntImg {
+  height: 2rem;
+  width: 2rem;
+}
+
+.white-on-hover:hover {
+  color: white !important;
+}
+
