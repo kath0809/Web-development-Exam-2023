@@ -1,0 +1,25 @@
+.hero-image {
+    height: 50vh;
+    width: 100vw;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../images/icons/wallpaper.png);
+}
+
+.text-overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.75);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ html {
+    scroll-behavior: smooth;
+ }
