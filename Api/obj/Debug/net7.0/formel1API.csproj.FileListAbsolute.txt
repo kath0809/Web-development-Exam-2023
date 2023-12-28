@@ -1,0 +1,280 @@
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/appsettings.Development.json
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/appsettings.json
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/formel1API
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/formel1API.deps.json
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/formel1API.runtimeconfig.json
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/formel1API.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/formel1API.pdb
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Humanizer.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/formel1API.csproj.AssemblyReference.cache
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/formel1API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/formel1API.AssemblyInfoInputs.cache
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/formel1API.AssemblyInfo.cs
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/formel1API.csproj.CoreCompileInputs.cache
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/formel1API.MvcApplicationPartsAssemblyInfo.cs
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/formel1API.MvcApplicationPartsAssemblyInfo.cache
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.formel1API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.build.formel1API.props
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.formel1API.props
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.formel1API.props
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/scopedcss/bundle/formel1API.styles.css
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/formel1API.csproj.CopyComplete
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/formel1API.dll
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/refint/formel1API.dll
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/formel1API.pdb
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/formel1API.genruntimeconfig.cache
+/Users/k.thingvold/Desktop/web/formel1API/obj/Debug/net7.0/ref/formel1API.dll
+/Users/k.thingvold/Desktop/web/formel1API/bin/Debug/net7.0/formel1API.staticwebassets.runtime.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/appsettings.Development.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/appsettings.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/formel1API.staticwebassets.runtime.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/formel1API
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/formel1API.deps.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/formel1API.runtimeconfig.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/formel1API.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/formel1API.pdb
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Humanizer.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/formel1API.csproj.AssemblyReference.cache
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/formel1API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/formel1API.AssemblyInfoInputs.cache
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/formel1API.AssemblyInfo.cs
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/formel1API.csproj.CoreCompileInputs.cache
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/formel1API.MvcApplicationPartsAssemblyInfo.cs
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/formel1API.MvcApplicationPartsAssemblyInfo.cache
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.formel1API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.build.formel1API.props
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.formel1API.props
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.formel1API.props
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/scopedcss/bundle/formel1API.styles.css
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/formel1API.csproj.CopyComplete
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/formel1API.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/refint/formel1API.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/formel1API.pdb
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/formel1API.genruntimeconfig.cache
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_2136/formel1API/obj/Debug/net7.0/ref/formel1API.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/appsettings.Development.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/appsettings.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/formel1API.staticwebassets.runtime.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/formel1API
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/formel1API.deps.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/formel1API.runtimeconfig.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/formel1API.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/formel1API.pdb
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Humanizer.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/formel1API.csproj.AssemblyReference.cache
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/formel1API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/formel1API.AssemblyInfoInputs.cache
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/formel1API.AssemblyInfo.cs
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/formel1API.csproj.CoreCompileInputs.cache
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/formel1API.MvcApplicationPartsAssemblyInfo.cs
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/formel1API.MvcApplicationPartsAssemblyInfo.cache
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.formel1API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.build.formel1API.props
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.formel1API.props
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.formel1API.props
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/scopedcss/bundle/formel1API.styles.css
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/formel1API.csproj.CopyComplete
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/formel1API.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/refint/formel1API.dll
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/formel1API.pdb
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/formel1API.genruntimeconfig.cache
+/Users/k.thingvold/Desktop/DS3103_H23_Knr_/formel1API/obj/Debug/net7.0/ref/formel1API.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/appsettings.Development.json
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/appsettings.json
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/formel1API.staticwebassets.runtime.json
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/formel1API
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/formel1API.deps.json
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/formel1API.runtimeconfig.json
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/formel1API.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/formel1API.pdb
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Humanizer.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/formel1API.csproj.AssemblyReference.cache
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/formel1API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/formel1API.AssemblyInfoInputs.cache
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/formel1API.AssemblyInfo.cs
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/formel1API.csproj.CoreCompileInputs.cache
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/formel1API.MvcApplicationPartsAssemblyInfo.cs
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/formel1API.MvcApplicationPartsAssemblyInfo.cache
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.formel1API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.build.formel1API.props
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.formel1API.props
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.formel1API.props
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/scopedcss/bundle/formel1API.styles.css
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/formel1API.csproj.CopyComplete
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/formel1API.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/refint/formel1API.dll
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/formel1API.pdb
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/formel1API.genruntimeconfig.cache
+/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/obj/Debug/net7.0/ref/formel1API.dll

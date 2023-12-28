@@ -1,0 +1,257 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/css/index.css",
+      "PackagePath": "staticwebassets/css/index.css"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/drivers/.DS_Store",
+      "PackagePath": "staticwebassets/images/drivers/.DS_Store"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/drivers/CarlosSainz.png",
+      "PackagePath": "staticwebassets/images/drivers/CarlosSainz.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/drivers/CharlesLeclerc.png",
+      "PackagePath": "staticwebassets/images/drivers/CharlesLeclerc.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/drivers/FernandoAlon.png",
+      "PackagePath": "staticwebassets/images/drivers/FernandoAlon.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/drivers/GeorgeRussell.png",
+      "PackagePath": "staticwebassets/images/drivers/GeorgeRussell.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/drivers/KevinMagn.png",
+      "PackagePath": "staticwebassets/images/drivers/KevinMagn.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/drivers/LanceStroll.png",
+      "PackagePath": "staticwebassets/images/drivers/LanceStroll.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/drivers/LandoNorris.png",
+      "PackagePath": "staticwebassets/images/drivers/LandoNorris.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/drivers/LewisHam.png",
+      "PackagePath": "staticwebassets/images/drivers/LewisHam.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/drivers/MaxVers.png",
+      "PackagePath": "staticwebassets/images/drivers/MaxVers.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/drivers/OscarPiastri.png",
+      "PackagePath": "staticwebassets/images/drivers/OscarPiastri.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/drivers/SergioPere.png",
+      "PackagePath": "staticwebassets/images/drivers/SergioPere.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/drivers/alexanderAlbon.png",
+      "PackagePath": "staticwebassets/images/drivers/alexanderAlbon.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/.DS_Store",
+      "PackagePath": "staticwebassets/images/gp/.DS_Store"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/aus.png",
+      "PackagePath": "staticwebassets/images/gp/aus.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/austria.png",
+      "PackagePath": "staticwebassets/images/gp/austria.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/azar.png",
+      "PackagePath": "staticwebassets/images/gp/azar.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/baha.png",
+      "PackagePath": "staticwebassets/images/gp/baha.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/belgium.png",
+      "PackagePath": "staticwebassets/images/gp/belgium.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/canada.png",
+      "PackagePath": "staticwebassets/images/gp/canada.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/hungary.png",
+      "PackagePath": "staticwebassets/images/gp/hungary.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/it.png",
+      "PackagePath": "staticwebassets/images/gp/it.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/netherlands.png",
+      "PackagePath": "staticwebassets/images/gp/netherlands.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/qatar.png",
+      "PackagePath": "staticwebassets/images/gp/qatar.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/sa.png",
+      "PackagePath": "staticwebassets/images/gp/sa.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/sin.png",
+      "PackagePath": "staticwebassets/images/gp/sin.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/gp/us.png",
+      "PackagePath": "staticwebassets/images/gp/us.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/icons/HeroText.png",
+      "PackagePath": "staticwebassets/images/icons/HeroText.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/icons/f1.png",
+      "PackagePath": "staticwebassets/images/icons/f1.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/icons/icon1.png",
+      "PackagePath": "staticwebassets/images/icons/icon1.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/icons/wallpaper.png",
+      "PackagePath": "staticwebassets/images/icons/wallpaper.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/nationality/.DS_Store",
+      "PackagePath": "staticwebassets/images/nationality/.DS_Store"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/nationality/Australia.png",
+      "PackagePath": "staticwebassets/images/nationality/Australia.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/nationality/Canada.png",
+      "PackagePath": "staticwebassets/images/nationality/Canada.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/nationality/Denmark.png",
+      "PackagePath": "staticwebassets/images/nationality/Denmark.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/nationality/GreatB.png",
+      "PackagePath": "staticwebassets/images/nationality/GreatB.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/nationality/Mexico.png",
+      "PackagePath": "staticwebassets/images/nationality/Mexico.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/nationality/Monaco.png",
+      "PackagePath": "staticwebassets/images/nationality/Monaco.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/nationality/Netherlands.png",
+      "PackagePath": "staticwebassets/images/nationality/Netherlands.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/nationality/Spain.png",
+      "PackagePath": "staticwebassets/images/nationality/Spain.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/nationality/thailand.png",
+      "PackagePath": "staticwebassets/images/nationality/thailand.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/.DS_Store",
+      "PackagePath": "staticwebassets/images/teams/.DS_Store"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/AlfaRomeo.png",
+      "PackagePath": "staticwebassets/images/teams/AlfaRomeo.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/AlphaT.png",
+      "PackagePath": "staticwebassets/images/teams/AlphaT.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/Alpine.png",
+      "PackagePath": "staticwebassets/images/teams/Alpine.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/AstonMartin.png",
+      "PackagePath": "staticwebassets/images/teams/AstonMartin.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/Ferrari.png",
+      "PackagePath": "staticwebassets/images/teams/Ferrari.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/Haas.png",
+      "PackagePath": "staticwebassets/images/teams/Haas.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/McLaren.png",
+      "PackagePath": "staticwebassets/images/teams/McLaren.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/Mercedes.png",
+      "PackagePath": "staticwebassets/images/teams/Mercedes.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/RedBull.png",
+      "PackagePath": "staticwebassets/images/teams/RedBull.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/Stake.png",
+      "PackagePath": "staticwebassets/images/teams/Stake.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/Williams.png",
+      "PackagePath": "staticwebassets/images/teams/Williams.png"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/fordM.jpeg",
+      "PackagePath": "staticwebassets/images/teams/fordM.jpeg"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/images/teams/test1.jpeg",
+      "PackagePath": "staticwebassets/images/teams/test1.jpeg"
+    },
+    {
+      "Id": "/Users/k.thingvold/Desktop/3 SEMESTER/Webutvikling/DS3103_H23/formel1API/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.formel1API.props",
+      "PackagePath": "build\\formel1API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.formel1API.props",
+      "PackagePath": "buildMultiTargeting\\formel1API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.formel1API.props",
+      "PackagePath": "buildTransitive\\formel1API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.formel1API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
