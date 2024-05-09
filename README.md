@@ -1,13 +1,18 @@
 # Web-development-exam-2023
-### Full stack exam, assignment description in repo under ✨
+### Full stack exam, assignment description in repo ✨
 ##### Grade A
 ---
 
 > [!NOTE]
->If you want to run the project locally you'll have to:
-> [] Create a workspace folder
-> [] run '  npm install' in special event
-> [] run '  dotnet watch in formel 1Api
+> - In special event  
+> ```npm install```  
+> ```npm run dev```  
+> - In formel1Api  
+> ```dotnet watch```  
+> remove swagger from http  
 
+---
 
-<img width="888" alt="Skjermbilde 2023-12-28 kl  16 14 31" src="https://github.com/kath0809/Web-development-exam-2023/assets/114475257/490da7b9-1193-424e-942b-e807e66cf7e7">
+https://github.com/kath0809/Web-development-exam-2023/assets/114475257/b438370d-a3ad-43f7-b81b-026ace42ede5
+
+https://github.com/kath0809/Web-development-exam-2023/assets/114475257/2ace64cd-2f77-45b7-9d4b-151c896fcc8e
