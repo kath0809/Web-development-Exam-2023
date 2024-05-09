@@ -4,10 +4,10 @@
 ---
 
 > [!NOTE]
-> - In special event  
+> - In 'react page'  
 > ```npm install```  
 > ```npm run dev```  
-> - In formel1Api  
+> - In 'api'  
 > ```dotnet watch```  
 > remove swagger from http  
 
