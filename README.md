@@ -1,5 +1,7 @@
 # Web-development-exam-2023
 ### Full stack exam, assignment description in repo ✨
+
+Alone / ~~Group~~
 ##### Grade A
 ---
 
